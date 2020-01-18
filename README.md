@@ -1,2 +1,2 @@
 # go-playground
-Golang examples and snippets
+Golang examples and snippets.
