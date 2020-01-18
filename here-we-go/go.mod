@@ -1,3 +1,3 @@
-module github.com/kpteja/go-playground/here-we-go
+module github.com/kpteja/go-playground
 
 go 1.13
