@@ -1,3 +1,3 @@
-module github.com/kpteja/go-playground/http-middleware
+module github.com/kpteja/go-playground
 
 go 1.13
