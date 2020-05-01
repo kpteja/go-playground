@@ -22,6 +22,16 @@ type Address struct {
 	PINCode string
 }
 
+// FullName makes full name from first name and last name.
+func (p Person) FullName() string {
+	return p.FirstName + " " + p.LastName
+}
+
+// AddressString makes a string from Address fields.
+func (addr *Address) AddressString() string {
+	return addr.Line1 + " " + addr.Line2 + " " + addr.City + " " + addr.PINCode
+}
+
 func main() {
 	david := Person{
 		FirstName: "David",
@@ -40,5 +50,6 @@ func main() {
 		},
 	}
 
-	fmt.Printf("%+v", david)
+	fmt.Println(david.FullName())
+	fmt.Println(david.AddressString())
 }
