@@ -1,0 +1,9 @@
+mode: set
+github.com/kpteja/go-playground/test-coverage/main.go:6.25,7.9 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:19.2,19.19 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:8.13,9.20 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:10.14,11.16 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:12.14,13.17 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:14.15,15.15 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:16.16,17.16 1 1
+github.com/kpteja/go-playground/test-coverage/main.go:22.13,25.2 2 1
